@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Tabuada</h1>
+    <p>Atividade das aulas de PHP</p>
 
     <form action="processaTab.php" method="post">
         <p>num <input type="text" name="num"></p>
